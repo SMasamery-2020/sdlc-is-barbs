@@ -1,6 +1,10 @@
 With you partner search the following questions and create a presentation.
 What is SDLC?
+  SDLC: Systems Development Life Cycle
+    series of steps that provide 'framework' for developing software and managing it. 
 What are the stages of SDLC? explain 
+  Investigation, analysis, design, build, test, implement, and maintenance and support 
 Define five SDLC moldels (methodology).
+  MODELS: Agile, Waterfall, V-Shaped, Interative, Spiral
 Take one of the SDLC models and explain the implementation process.
 Describe how to apply SDLC model in the version control App.
